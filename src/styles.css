@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+}
+
+img {
+  max-width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  color: #231d3c;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Zen Antique Soft", serif;
+  text-align: center;
+  font-weight: 900;
+  margin: 0;
+  font-size: 36px;
+  line-height: 48px;
+}
+.atom-icon {
+  color: greenyellow;
+  display: center;
+  font-size: 48px;
+}
+.jedi-icon {
+  color: blue;
+  text-align: center;
+  font-size: 60px;
+}
+.moon-icon {
+  color: dimgrey;
+  text-align: center;
+  font-size: 48px;
+}
